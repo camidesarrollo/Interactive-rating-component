@@ -19,6 +19,16 @@ Ver el estado de la tarjeta "Gracias" después de enviar una valoración
 Ver el diseño óptimo de la aplicación en función del tamaño de la pantalla de su dispositivo
 Ver el estado de todos los elementos interactivos de la página al pasar el ratón por encima de ellos.
 
+# Tecnologias 
+
+Front-end 
+
+React 
+
+Style 
+
+styled-components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
