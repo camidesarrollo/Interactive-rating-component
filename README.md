@@ -1,3 +1,11 @@
+# Bienvenido. 👋
+
+Gracias por ver este desafío de codificación de front-end.
+
+Los retos de Frontend Mentor te ayudan a mejorar tus habilidades de codificación construyendo proyectos realistas.
+
+Para hacer este reto, necesitas un conocimiento básico de HTML, CSS y JavaScript.
+
 # Breve
 
 Tu reto es construir este componente de calificación interactiva y conseguir que se parezca lo más posible al diseño.
