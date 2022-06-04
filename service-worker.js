@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/camidesarrollo/Interactive-rating-component.github.io/precache-manifest.b7e15a456b8419e89276642b66d04f41.js"
+  "/Interactive-rating-component/precache-manifest.a27307faab4fb18faebec6371d30d520.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/camidesarrollo/Interactive-rating-component.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/Interactive-rating-component/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
