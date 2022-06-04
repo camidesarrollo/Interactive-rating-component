@@ -1,3 +1,16 @@
+# Breve
+
+Tu reto es construir este componente de calificación interactiva y conseguir que se parezca lo más posible al diseño.
+
+Puedes utilizar las herramientas que quieras para ayudarte a completar el reto. Así que si tienes algo que te gustaría practicar, no dudes en intentarlo.
+
+Tus usuarios deben ser capaces de:
+
+Seleccionar y enviar una valoración numérica
+Ver el estado de la tarjeta "Gracias" después de enviar una valoración
+Ver el diseño óptimo de la aplicación en función del tamaño de la pantalla de su dispositivo
+Ver el estado de todos los elementos interactivos de la página al pasar el ratón por encima de ellos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
