@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Overpass", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  background: hsl(218, 11%, 9%);
+  margin: 0 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 0.1px);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@media (min-width: 320px) {
+  h1{
+    font-size: 24px;
+  }
+}
+
+  @media (min-width: 320px){
+    h1 {
+      font-size: 27px;
+    }
+  }
+
+  
+@media (min-width: 390px){
+  h1 {
+    font-size: 25px !important;
+  }
+}
+
+.box{
+  width: 40%;
+}
+@media (min-width:240px) {
+   .box{
+    width: 80%;
+   }
+
+}
+
+@media (min-width:320px) {
+  .box{
+     width: 80%;
+  }
+
+}
+
+@media (min-width:390px) {
+  .box{
+    width: 80%;
+  }
+
+}
+
+@media (min-width:414px) {
+  .box{
+    width: 80%;
+  }
+
+}
+
+@media (min-width:768px) {
+  .box{
+    width: 40%;
+  }
+
+}
+
+@media (min-width:809px) {
+  .box{
+    width: 40%;
+  }
+
+}
+
+@media (min-width:864px) {
+  .box{
+    width: 40%;
+  }
+
+}
+
+.pDisign{
+  color: hsl(0, 0%, 100%);
+}
+.boxTwo{
+  width: 70%;
+}
+
+.pThankyou{
+  color: hsl(217, 12%, 63%);
+  margin: 0px;
+  text-align: center;
+
+}
